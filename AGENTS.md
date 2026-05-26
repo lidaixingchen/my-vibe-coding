@@ -33,6 +33,8 @@ git submodule status
 my-vibe-coding/
 ├── .gitmodules          Git 子模块配置
 ├── todo-app/            子模块：待办事项应用
+├── markdown-notes/      子模块：Markdown 笔记应用
+├── pomodoro-timer/      子模块：番茄钟计时器
 └── README.md
 ```
 

@@ -4,3 +4,6 @@
 [submodule "markdown-notes"]
 	path = markdown-notes
 	url = https://github.com/lidaixingchen/markdown-notes.git
+[submodule "pomodoro-timer"]
+	path = pomodoro-timer
+	url = https://github.com/lidaixingchen/pomodoro-timer.git

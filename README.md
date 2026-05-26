@@ -5,6 +5,8 @@
 ## 包含的项目
 
 - [todo-app](./todo-app) - 待办事项应用（Vue 3 + TypeScript + Vite + Pinia + Tailwind CSS）
+- [markdown-notes](./markdown-notes) - Markdown 笔记应用（Vue 3 + TypeScript + Vite + Pinia + Tailwind CSS + highlight.js）
+- [pomodoro-timer](./pomodoro-timer) - 番茄钟计时器（Vue 3 + TypeScript + Vite）
 
 ## 使用方式
 
