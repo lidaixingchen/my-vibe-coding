@@ -4,16 +4,14 @@
 
 ## 包含的项目
 
-<!-- 添加子模块后取消注释 -->
-<!-- - [project-a](./project-a) - 项目描述 -->
-<!-- - [project-b](./project-b) - 项目描述 -->
+- [todo-app](./todo-app) - 待办事项应用（Vue 3 + TypeScript + Vite + Pinia + Tailwind CSS）
 
 ## 使用方式
 
 ### 克隆仓库（含所有子模块）
 
 ```bash
-git clone --recurse-submodules https://github.com/your-username/my-vibe-coding.git
+git clone --recurse-submodules https://github.com/lidaixingchen/my-vibe-coding.git
 ```
 
 ### 添加子项目
@@ -26,4 +24,10 @@ git submodule add <仓库地址> <目录名>
 
 ```bash
 git submodule update --remote
+```
+
+### 初始化子模块（已克隆但未初始化）
+
+```bash
+git submodule update --init --recursive
 ```
