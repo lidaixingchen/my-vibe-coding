@@ -4,14 +4,7 @@
 
 个人项目集合仓库，使用 Git Submodules 管理多个独立子项目。
 
-## 技术栈偏好
 
-| 领域 | 工具 |
-|------|------|
-| Node.js 包管理 | pnpm |
-| Python 包管理 | Miniconda |
-| 操作系统 | Windows 11 |
-| Shell | PowerShell 7+ |
 
 ## 常用命令
 
