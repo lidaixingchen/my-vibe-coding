@@ -1,6 +1,6 @@
 [submodule "todo-app"]
 	path = todo-app
-	url = https://github.com/lidaixingchen/todo-app
+	url = https://github.com/lidaixingchen/todo-app.git
 [submodule "markdown-notes"]
 	path = markdown-notes
 	url = https://github.com/lidaixingchen/markdown-notes.git
