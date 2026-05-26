@@ -42,3 +42,4 @@ my-vibe-coding/
 
 - 子模块 URL 使用 HTTPS 或 SSH 格式，不支持本地绝对路径
 - 修改子模块后需在父仓库提交子模块引用的 commit hash
+- 使用中文和我交流
