@@ -13,7 +13,7 @@
 ### 克隆仓库（含所有子模块）
 
 ```bash
-git clone --recurse-submodules https://github.com/lidaixingchen/my-vibe-coding.git
+git clone --recurse-submodules https://github.com/lidaixingchen/my-vibe-codings.git
 ```
 
 ### 添加子项目
