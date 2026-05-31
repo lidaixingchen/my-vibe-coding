@@ -1,4 +1,4 @@
-# My Vibe Coding
+# My Vibe Codings
 
 个人项目集合，使用 Git Submodules 管理多个独立项目。
 
